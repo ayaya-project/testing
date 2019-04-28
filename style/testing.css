@@ -1,1 +1,17 @@
 
+body {
+	background-color: black;
+}
+
+.ayayavid {
+	    position: relative;
+    	left: 0;
+    	float: left;
+
+}
+
+
+.ayayachat {
+	    position: absolute;
+    	right: 0;
+}
