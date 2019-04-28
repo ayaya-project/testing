@@ -1,0 +1,22 @@
+
+<html>
+<head>
+   <title>ayaya</title>
+	<link href="style/testing.css" rel="stylesheet" />
+  </head>
+  
+  <body>
+    <div>
+      <iframe class="ayayavid" src="//ok.ru/videoembed/915629547137" frameborder="0" allowfullscreen="true" scrolling="no" height="720" width="80%"></iframe><iframe class="ayayachat" src="https://www.twitch.tv/embed/ayaya99999/chat?darkpopout" frameborder="0" scrolling="no" height="100%" width="20%"></iframe>
+    </div>
+  <div class="menu" style="width:25%">
+  <a href="#" class="item">Link 1</a>
+  <a href="#" class="item">Link 2</a>
+  <a href="#" class="item">Link 3</a>
+  <a href="#" class="item">Link 4</a>
+  <a href="#" class="item">Link 5</a>
+  <a href="#" class="item">Link 6</a>
+</div>
+	  
+    </body>
+</html>
