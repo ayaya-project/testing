@@ -17,7 +17,8 @@ body {
 }
 
 .menu {
-	padding-top: 20px;	
+	position: absolute;
+	bottom: 10px;
 }
 
 
