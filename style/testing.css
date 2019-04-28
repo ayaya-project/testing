@@ -24,5 +24,7 @@ body {
 
 .item {
 	text-decoration: none;
+	color: grey;
+    	font-family: arial;
 	
 }
